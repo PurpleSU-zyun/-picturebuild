@@ -72,7 +72,7 @@ define('ADMIN_PASSWORD', 'admin123'); // 管理面板密码（建议修改）
 ## 常见问题
 
 **Q: 管理密码忘记了？**  
-A: 编辑 `config.php`，修改 `ADMIN_PASSWORD` 的值，然后重启页面即可。
+A: 编辑 `config.php`，修改 `ADMIN_PASSWORD` 的值，然后重启页面。
 
 **Q: 如何获取图片 URL？**  
-A: 可以使用图床服务（如 imgurl.org、sm.ms）或将自己的图片上传到服务器。
+A: 啥子问题，你网站都搭了，不会传图片，现在立刻跳楼。
